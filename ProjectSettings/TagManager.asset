@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - esterno
+  - studio1_door
+  - studio2_door
+  - camper_door
+  - camion_door
+  - suono
+  - Post Processing
+  - task_differenze_2d
+  - light_up
+  - task_luci
+  - task_costumi
+  - task_caffe
+  - 'task_suoni '
+  - bottone_faretto
+  - bottone_parete
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
